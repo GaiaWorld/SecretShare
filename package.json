@@ -4,7 +4,9 @@
   "description": "",
   "main": "hello.js",
   "dependencies": {
-    "secrets.js": "^0.1.8"
+    "base58check": "^2.0.0",
+    "secrets.js": "^0.1.8",
+    "wif": "^2.0.6"
   },
   "devDependencies": {},
   "scripts": {
